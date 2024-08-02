@@ -14,7 +14,6 @@ public class Item
     public int Mileage { get; set; }
     public string ImageUrl { get; set; }
 
-    // nav properties
     public Auction Auction { get; set; }
     public Guid AuctionId { get; set; }
 }

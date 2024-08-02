@@ -17,22 +17,6 @@ public class DbInitializer
 
     private static void SeedData(AuctionDbContext context)
     {
-        context.Database.Migrate();
 
-        if (context.Auctions.Any())
-        {
-            Console.WriteLine("Database already seeded...");
-            return;
-        }
-        else
-        {
-            Console.WriteLine("Seeding database...");
-            var auctions = new List<Auction>()
-            {
-
-            };
-            context.Auctions.AddRange(auctions);
-            context.SaveChanges();
-        }
     }
 }
