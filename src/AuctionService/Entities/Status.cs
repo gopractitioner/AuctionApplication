@@ -1,4 +1,4 @@
-namespace AuctionService.Models;
+namespace AuctionService.Entities;
 
 public enum Status
 {

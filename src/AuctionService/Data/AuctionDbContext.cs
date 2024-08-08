@@ -1,5 +1,5 @@
 
-using AuctionService.Models;
+using AuctionService.Entities;
 using Microsoft.EntityFrameworkCore;
 
 public class AuctionDbContext : DbContext

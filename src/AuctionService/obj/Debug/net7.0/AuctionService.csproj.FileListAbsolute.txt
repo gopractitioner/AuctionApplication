@@ -1,0 +1,7 @@
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.AssemblyReference.cache
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.AssemblyInfoInputs.cache
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.AssemblyInfo.cs
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CoreCompileInputs.cache
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.MvcApplicationPartsAssemblyInfo.cache
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net7.0/AuctionService.sourcelink.json

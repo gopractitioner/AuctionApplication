@@ -28,13 +28,6 @@
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/AutoMapper.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Humanizer.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
@@ -44,6 +37,12 @@
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Npgsql.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/System.CodeDom.dll
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net8.0/AuctionS.72D7E915.Up2Date
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/System.Composition.AttributedModel.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/System.Composition.Convention.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/System.Composition.Hosting.dll
@@ -102,4 +101,5 @@
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/obj/Debug/net8.0/AuctionS.72D7E915.Up2Date
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
+/Users/Shared/TrimesterB/576-Project Programming/AuctionApplication/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
